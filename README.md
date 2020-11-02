@@ -56,16 +56,16 @@
 ├── flask.py                 
 ├── get_container_num.py  
 ├── ocr.py   
-├── text_rec                   // 文字识别
-├── text_detect                 // 文字检测
+├── text_rec                   // 文字识别\n
+├── text_detect                 // 文字检测\n
 ├── scripts                  
 │   ├── draw_points.py
-│   ├── json2train_data.py       // 识别结果导出1
-│   ├── ocr2labelme.py          // 识别结果导出2
-│   ├── statistics.py           // 统计识别准确率
+│   ├── json2train_data.py       // 识别结果导出1\n
+│   ├── ocr2labelme.py          // 识别结果导出2\n
+│   ├── statistics.py           // 统计识别准确率\n
 ├── data
 │   └── nohup
-│       └── nohup.out         // 训练过程输出
+│       └── nohup.out         // 训练过程输出\n
 │   ├── test_img
 │   ├── test_result           
 
